@@ -79,6 +79,7 @@ function Form() {
           <Grid style={{ paddingTop: 5 }}>
             <TextField
               fullWidth
+              label="Date of Birth"
               id="dob"
               type="date"
               placeholder="Enter a Date"
